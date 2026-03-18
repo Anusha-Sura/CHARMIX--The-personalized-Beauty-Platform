@@ -64,12 +64,12 @@ Data handling with Python
 📂 Project Structure
 Charmix/
 │
-├── frontend/           # UI components (CustomTkinter)
-├── backend/            # Business logic & APIs
-├── database/           # SQL scripts & schema
-├── assets/             # Images, icons, UI resources
-├── main.py             # Entry point
-└── README.md
+| frontend/           # UI components (CustomTkinter)
+| backend/            # Business logic & APIs
+| database/           # SQL scripts & schema
+| assets/             # Images, icons, UI resources
+| main.py             # Entry point
+| README.md
 ⚙️ Installation & Setup
 1. Clone the Repository
 git clone https://github.com/Anusha-Sura/CHARMIX--The-personalized-Beauty-Platform/edit/main/README.md
